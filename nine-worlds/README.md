@@ -37,4 +37,4 @@ manim "我曾九次认识世界_还原版.py" NineWorlds -qh --fps 60
 
 这里提供了复刻所需的技能、源码和效果参考；“交给 AI 一键复刻”需要该 AI 具备运行工具的能力，并先准备好上述环境。
 
-[返回技能合集首页](https://github.com/9401834-stack/SKIll)
+[返回技能合集首页](https://github.com/FTZ-OPUS/SKIll)

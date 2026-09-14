@@ -12,7 +12,7 @@
 
 这里收集了我在日常创作和配置中整理的 **9 份 AI 技能文档与实用教程**，涵盖 **Manim 数学动画、公式混剪、API 接入、剪映 / CapCut 插件的 AI 适配，以及中文 LaTeX 排版**。希望把实际用过的方法、参数和踩坑经验分享出来，让大家更容易用 AI 做动画、剪视频、连接模型和整理学习资料。
 
-**[点击下载 SKIll.zip：全部 9 份文档](https://github.com/9401834-stack/SKIll/raw/refs/heads/main/SKIll.zip)**
+**[点击下载 SKIll.zip：全部 9 份文档](https://github.com/FTZ-OPUS/SKIll/raw/refs/heads/main/SKIll.zip)**
 
 压缩包保留原始中文文件名，已去除重复副本和系统隐藏文件，解压后即可阅读。
 
